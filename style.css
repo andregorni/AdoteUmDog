@@ -1,0 +1,149 @@
+ * {
+     margin: 0px;
+     padding: 0px;
+     box-sizing: border-box;
+     
+    }
+
+h1 {
+    font-size: 60px;
+    text-align-last:center;
+    margin-bottom: 10px;
+                 
+}
+
+.h2sub {
+
+    margin-left: 600px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 600PX;
+    font-size: 25px;
+    display: inline-block;
+        
+}
+
+nav {
+    display: flex;
+    width: 450px;
+        
+}
+
+ul {
+    font-size: 30px ;
+    list-style: none;
+    display: flex;
+    margin-left: 25px;
+    width: 400px;
+    margin-bottom: 10px;
+}
+
+.home {
+    margin: 0px 15px;
+    margin-top: 30px;
+}
+
+
+
+/* FIM DA HEADER */
+
+.bmenu1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    ;
+}
+
+.adote {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.adote2 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+
+.adoçao {
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.caoc {
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.adt1, .adt2, .adt3, .adt4, .adt5 {
+        height: 220px;
+        width: 280px;
+        
+               
+        
+}
+
+.caes {
+    display: inline-block;
+    margin-bottom: 60px;
+    margin-left: 10px;
+}
+
+.main-paragraph {
+    font-size: 16px;
+    text-align: justify;
+    width: 1200px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+/* FIM DA MAIN */
+
+.contato {
+    margin-bottom: 10px;
+    font-size: 24px;
+        
+}
+
+.divfooter{
+    margin-left: 10px;   
+  }  
+
+.redes, .redes2, .redes3 {
+    height: 30px;
+    width: 30px;
+}
+
+
+
+/* FIM DO FOOTER */
+
+
+
+
+
+
+button {
+    height: 32px;
+    width: 110px;
+    margin-left: 10px;
+    background-color: rgba(34, 212, 174, 0.795);
+    
+}
+
+
+li {
+font-size: 20px;
+
+}
+
+main, footer {
+    background-image: url(imagens/fundo.jpg);
+}
+
+
+header{
+    background-image: url(imagens/fundo\ cabec.jpg);
+}
